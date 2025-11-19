@@ -4,6 +4,7 @@
  * * This file includes the necessary class and initializes the instance.
  * It ensures the logic is decoupled from the theme's functions.php.
  *
+ * @package Hussainas_WC_History
  * @version     1.0.0
  * @author      Hussain Ahmed Shrabon
  * @license     GPL-2.0-or-later
